@@ -1,0 +1,68 @@
+{
+    "question_0000": {
+        "id": "0000",
+        "category": "science",
+        "question": "Which planet in our solar system is known for having a great red spot?",
+        "incorrectAnswers": [
+            "Mercury",
+            "Mars",
+            "Saturn"
+        ],
+        "correctAnswer": "Jupiter"
+    },
+    "question_0001": {
+        "id": "0001",
+        "category": "geography",
+        "question": "What is the capital of Tanzania?",
+        "incorrectAnswers": [
+            "Dar es Salaam",
+            "Mwanza",
+            "Zanzibar City"
+        ],
+        "correctAnswer": "Dodoma"
+    },
+    "question_0002": {
+        "id": "0002",
+        "category": "literature",
+        "question": "Who wrote the novel \"One Hundred Years of Solitude\"?",
+        "incorrectAnswers": [
+            "Jorge Luis Borges",
+            "Octavio Paz",
+            "Isabel Allende"
+        ],
+        "correctAnswer": "Gabriel García Márquez"
+    },
+    "question_0003": {
+        "id": "0003",
+        "category": "television",
+        "question": "In what year did the first episode of \"The Sopranos\" air?",
+        "incorrectAnswers": [
+            "1997",
+            "2002",
+            "1994"
+        ],
+        "correctAnswer": "1999"
+    },
+    "question_0004": {
+        "id": "0004",
+        "category": "geography",
+        "question": "What is the smallest country in the world by land area?",
+        "incorrectAnswers": [
+            "Luxembourg",
+            "Nauru",
+            "Liechtenstein"
+        ],
+        "correctAnswer": "Vatican City"
+    },
+    "question_0005": {
+        "id": "0005",
+        "category": "geography",
+        "question": "What is the smallest country in the world by land area?",
+        "incorrectAnswers": [
+            "Luxembourg",
+            "Nauru",
+            "Liechtenstein"
+        ],
+        "correctAnswer": "Vatican City"
+    }
+}
